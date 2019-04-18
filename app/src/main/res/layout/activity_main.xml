@@ -8,19 +8,19 @@
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin">
 
-    <Button android:id="@+id/move_linear"
+    <Button android:id="@+id/btn_move_linear"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/iniLinear"
             android:layout_margin="@dimen/activity_vertical_margin"/>
 
-    <Button android:id="@+id/move_relative"
+    <Button android:id="@+id/btn_move_relative"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/iniRelative"
             android:layout_margin="@dimen/activity_vertical_margin"/>
 
-    <Button android:id="@+id/move_constraint"
+    <Button android:id="@+id/btn_move_constraint"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/iniConstraint"
